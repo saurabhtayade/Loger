@@ -1,0 +1,11 @@
+# Read about fixtures at http://ar.rubyonrails.org/classes/Fixtures.html
+
+one:
+  name: MyString
+  repo_type: MyString
+  path: MyString
+
+two:
+  name: MyString
+  repo_type: MyString
+  path: MyString
